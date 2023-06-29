@@ -13,7 +13,7 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "john bryce directeur",
+    name: "Ithzhak ouaknine , DSI in retraiteplus",
     review:
       "I highly recommend David for a development position based on their exceptional skills, dedication, and passion for the field, as well as their ability to collaborate effectively and continuously seek self-improvement.",
   },

@@ -13,7 +13,7 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Ithzhak ouaknine , DSI in retraiteplus",
+    name: "Yves Denan , DSI in retraiteplus",
     review:
       "I highly recommend David for a development position based on their exceptional skills, dedication, and passion for the field, as well as their ability to collaborate effectively and continuously seek self-improvement.",
   },
@@ -31,7 +31,7 @@ const data = [
   },
   {
     avatar: AVTR4,
-    name: "Ithzhak ouaknine , DSI in retraiteplus",
+    name: "Eyal Gold, DSI in retraiteplus",
     review:
     "He has been appreciated by his colleagues for his willingness to explore problem-solving solutions and his dedication to trying to resolve them",
   },
@@ -66,3 +66,4 @@ const Testimonials = () => {
 };
 
 export default Testimonials;
+

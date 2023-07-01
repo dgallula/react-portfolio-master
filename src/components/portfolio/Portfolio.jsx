@@ -23,7 +23,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "APP pokedex about pokenon in Angular15",
+    title: "APP pokedex about pokemon in Angular15",
     github: "https://github.com/dgallula/pokemon-app-master-angular15",
   },
   {

@@ -12,7 +12,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: "App tasks-todolisit in Javascript Vanilla SAAS ",
-    github: "https://github.com/dgallula/projet1-john-bryce-task-to-do",
+    github: "https://github.com/dgallula/projet1-john-bryce-task-to-do-master",
   },
   {
     id: 2,

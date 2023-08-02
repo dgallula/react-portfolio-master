@@ -31,7 +31,7 @@ const data = [
   },
   {
     avatar: AVTR4,
-    name: "Eyal Gold, DSI in retraiteplus",
+    name: "Eyal Daniel head Hunter at John Bryce",
     review:
     "He has been appreciated by his colleagues for his willingness to explore problem-solving solutions and his dedication to trying to resolve them",
   },
@@ -40,8 +40,8 @@ const data = [
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Review From teachers</h5>
-      <h2>John bryce</h2>
+      <h5>Review From teachers and DSI</h5>
+      <h2></h2>
       <Swiper
         className="container testimonials__container"
         modules={[Pagination]}
